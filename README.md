@@ -1,10 +1,8 @@
-# Resource
-科学上网电报 Telegram 群组汇总（转）
+# 科学上网电报 Telegram 群组汇总（转）
 
 
 科学上网电报 Telegram 群组汇总
-Cover Image for 科学上网电报 Telegram 群组汇总
-December 25, 2020
+
 Telegram电报群实在是太多了，小伙伴根本找不过来，加上Telegram本身无法搜索群组，想找一些合适的好玩的电报群租非常麻烦。如何快速的找到自己想要加入的Telegram群组？本文是电报群组大汇总，建议使用浏览器的搜索功能查找关键字，这样才能快速定位。建议收藏本汇总。
 
 推荐
@@ -19,53 +17,98 @@ Bear 熊掌记用户群:https://t.me/joinchat/Ag98FxRIKr7UkwUPqKKmfw
 RSS 交流群:https://t.me/joinchat/Ag98F0evTbZwY8HB7oH4fA
 
 笔记软件交流讨论:https://t.me/joinchat/Ag98F0DdcZr1X1xS6lJsyA
+
 幕布用户群:https://t.me/joinchat/Ag98F01tRQ2RIk_icHhiyA
+
 为知笔记用户群:https://t.me/joinchat/Ag98F1MLJji5WC5OpjAcHQ
+
 有道云笔记用户群:https://t.me/joinchat/Ag98F1C2ip5g0Bac_KCJ2A
+
 Todoist 用户群:https://t.me/joinchat/Ag98F1DuGqE_dIiNkeM2uA
+
 Simplenote 用户群:https://t.me/joinchat/Ag98F0f7fjEKqZKVHNW0aA
+
 MarginNote 用户群:https://t.me/joinchat/Ag98F0ZLDrJZOSBWXAEiow
+
 iMazing 用户群:https://t.me/joinchat/Ag98F07KJmIlmwSCfTOKxQ
+
 Typora 用户群:https://t.me/joinchat/Ag98FxBSO7eJ9mMwxxUIPw
+
 光年VPN 用户群:https://t.me/lightyearvpn
+
 群组 Group
 番羽土番
 Tempest(rixCloud) 群:https://t.me/rixCloud_User
+
 Surge 交流:https://t.me/loveapps
+
 Surge Pro:https://t.me/SurgePro
+
 Quantumult X:https://t.me/QuanXApp
+
 Quantumult:https://t.me/quantumult
+
 Quantumult X小白群:https://t.me/QuanX_App
+
 Shadowrocket:https://t.me/ShadowrocketApp
+
 lhie1/Rules:https://t.me/lhie1x
+
 DivineEngine Chat:https://t.me/joinchat/BlP48kmUGY-iR41Iq11-3w
+
 Quantumult X、Surge、Loon的脚本讨论:https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w
+
 thor，Quantumult X，小火箭 JSBox交流群:https://t.me/weixiaoge777
+
 Loon:https://t.me/Loon0x00
+
 rixCloud 用户群:https://t.me/rixCloudbot (绑定账号后,发送’/joingroup’获取群链接)
+
 Dler Cloud 用户群:https://t.me/DlerCloud_bot (绑定账号后,会给你发送群链接)
+
 YoYu - Global Accelerate:https://t.me/YoYuBot (发送’/bind’绑定账号后,会给你发送群链接)
+
 喵帕斯用户群:https://t.me/npsBoostbot (绑定账号后,发送’/joingroup’获取群链接)
+
 歪兔YTOO:https://t.me/YToo_bot (绑定账号后,获取群链接)
+
 N3RO Network:https://t.me/nnn3ro
+
 科学上网技术研究会:https://t.me/kxswjs
+
 科学上网，科技分享:https://t.me/qiankeji
+
 老王用户群:https://t.me/wangvpn_users
+
 老王讨论群:https://t.me/wangvpn_user_chat
+
 嘿嘿嘿:https://t.me/hellcell321
+
 神机规则群:
 LAMP交流群:https://t.me/qiushui2018
+
 V1blog交流群:https://t.me/V1blog_g
+
 BGP测速:https://t.me/hxisj8whsv
+
 机场测速频道:https://t.me/jcfast
+
 自用机场测速:https://t.me/shangguanhongxin
+
 Speedtest by Delected Account:https://t.me/delspeedtest
+
 Surge/Quantumult X Script:https://t.me/scriptgroup
+
 Shadowsocks:https://t.me/joinchat/A1lxzDuvcioTtic84c12vQ
+
 ShadowsocksR 讨论组:https://t.me/ssrunofficial
+
 ShadowsocksR 讨论组 2群:https://t.me/chatssr
+
 ShadowsocksRR 讨论组:https://t.me/ssrrchat
+
 Netch 游戏加速工具:https://t.me/Netch_Discuss_Group
+
 Clash:
 Clash for Windows:
 Clash for Android:
@@ -73,152 +116,297 @@ Clash 交流群:https://t.me/Clashclient
 ClashR 交流群组:https://t.me/ClashR_Chat
 ClashW:https://t.me/joinchat/AAAAAFHaKhGQaovvfpKr4g
 ShellClash(Clash for Miwifi):https://t.me/clashfm
+
 Trojan-Qt5:https://t.me/TrojanQt5
+
 Pharos Pro For iOS:https://t.me/Shadow_x_user_support
+
 Pharos Pro For Android:https://t.me/joinchat/EthDYRQ80Clo_dj8e3PJnQ
+
 Trojan Qt5:https://t.me/TrojanQt5
+
 Dashboard更新发布:https://t.me/db4cm
+
 ShadowRay:https://t.me/ShadowRay
+
 Project V(V2Ray):https://t.me/projectv2ray
+
 Project X(Xray):https://t.me/projectXray
+
 Netch 游戏加速工具:https://t.me/Netch
+
 V2fly Official:https://t.me/v2fly_chat
+
 V2Fly #Off-Topic:https://t.me/joinchat/GhXX_0zQFLOkjy9z81eQqg
+
 Qv2ray User Group:https://t.me/qv2ray
+
 Qv2ray Outpost:https://t.me/qv2ray_outpost
+
 v2rayN&G:https://t.me/v2rayN
+
 老毛子Padavan固件自助交流群:https://t.me/pdcn2
+
 老毛子Padavan固件iOS自助交流群:https://t.me/pdcn3
+
 Wingy Halal Group:https://t.me/wingytg
+
 魅影极速:
 魅影极速分站ARK:https://t.me/joinchat/HOQoQ0gXFKNdjqQ1S5ymfA
+
 CordCloud泡面交流群:https://t.me/joinchat/DsPjq0KEVl6saO_62MHEDA
+
 Nexitally 的老年人活动中心:https://t.me/nexitallyusers
+
 AmyTelecom官方群:https://t.me/amytelecomgroup
+
 IPLC.cloud:https://t.me/joinchat/Kt2jPxWr4SxT4M40CKDfjA
+
 WireGuard:https://t.me/WireGuard
+
 VPN讨论群:https://t.me/gouwu
+
 202Net:https://t.me/chatwith202
+
 海豚湾の三温暖:https://t.me/joinchat/IVfY9w2yQbtFtuyjcS7i6w
+
 Surfboard 交流群:https://t.me/surfboardapp
+
 SockBoom 咕咕咕交流群:https://t.me/sockboom
+
 CCCAT Madhouse:https://t.me/joinchat/AwB5ckAQb8s9Ev9c6shndg
+
 CCCAT Helpdesk:https://t.me/joinchat/AwB5ckdlwjLKRARW0nac2A
+
 Python云-一个学习py的公益机场:https://t.me/pythonyun
+
 忍者云:https://t.me/joinchat/JzPmF0Vpbn30D36D9_Ja_w
+
 NyanCAT Group:https://t.me/NyanCaaaat
+
 几鸡:https://t.me/ngcss
+
 梦迪mdssCloud:https://t.me/MdCloud
+
 梦迪mdssCloud:https://t.me/mdssios
+
 ssrcloud:https://t.me/ssrcloud
+
 次元链接:https://t.me/cylink
+
 星愿云加速:https://t.me/starwishss
+
 百草园:https://t.me/baicaoyuan
+
 星愿云SWcloud:https://t.me/starwishss
+
 不拘阁:https://t.me/bujuyige
+
 MunClolud:https://t.me/MunCloudSSR
+
 NSL NetWork:https://t.me/nsl_ssr
+
 飞云flycloud:https://t.me/FeiYunGroup
+
 I·SSR·do:https://t.me/i_SSR
+
 LSJ AirPort:https://t.me/lsjairport
+
 PoiCloud:https://t.me/PoiCloud
+
 良辰云:https://t.me/liangchenyunss
+
 ZCSSR:https://t.me/zcssr
+
 qazCloud:https://t.me/qazcloud
+
 陆玖:https://t.me/GroupFor69
+
 Conair:https://t.me/conairme
+
 Flysocks-Server:https://t.me/flysocks
+
 X-Air T3航站楼:https://t.me/xssr_booster
+
 FHV站(antei):https://t.me/FHVHKHK
+
 loriCloud:https://t.me/loricloud
+
 928Net购物小车:https://t.me/net928
+
 贼船:https://t.me/zeichuan
+
 SoCloud 聊天群:https://t.me/socloudso
+
 牧场物语官方交流群:https://t.me/mcwy666999
+
 GLaDOS 中文社区:https://t.me/glados_network
+
 盈科數碼動力 Pacific Century CyberWorks Limited:https://t.me/ssrcloud
+
 GeekCloud:https://t.me/joinchat/Ky2VFBBt2S5uRDbF3bJfQg
+
 THE.SSR官方售后群(BLINKLOAD):https://t.me/thessrgroup
+
 浪花云:https://t.me/langhuayun
+
 SunCloud萌妹吃瓜:https://t.me/Mengmm
+
 永久公益机场:https://t.me/AC_FFree
+
 大水比交流群:https://t.me/hxisj8whsv
+
 大佬吹牛群:https://t.me/xddos0
+
 少数人TG交流群:https://t.me/shaoshurenx
+
 WestCloud养生之道:https://t.me/joinchat/LM3Mm061YantoLHzgOs41Q
+
 DLK的奔放交流时间:https://t.me/dlkvpn
+
 McatCloud - V2ray:https://t.me/McatCloud
+
 Qatar Airways:https://t.me/qatar00
+
 Mac-SSR:https://t.me/MacSSR
+
 Mac翻墙 · SpechtLite交流群:https://t.me/SpechtLite
+
 GFW 吐槽 && 翻墙方法讨论:https://t.me/DiscussCrossGFW
+
 Alice:https://t.me/joinchat/AAAAAEAKmMX609B2f_Z9iQ
+
 AnyFlow:https://t.me/AnyFlowApp
+
 极客公园:https://t.me/geekpark
+
 SSR V2ray 讨论分享:https://t.me/joinchat/HHeAr1ELdNEKXdOhr1yXkw
+
 路由器梅林固件交流群:https://t.me/joinchat/AAAAAEC7pgV9vPdPcJ4dJw
+
 恩山论坛→软路由综合交流群:https://t.me/Router166
+
 XX-Net:https://t.me/xxnet
+
 pipesocks:https://t.me/pipesocks
+
 SocksCap64官方群:https://t.me/tarolab
+
 NICO Homemade “CupSS”:https://t.me/niconode
+
 VPS全球主機交流:https://t.me/VPSchat
+
 BIS科学上网:https://t.me/BISproject
+
 glzjinmod:https://t.me/glzjinmod
+
 代理「配置·规则」分享:https://t.me/RuleConfig
+
 狸猫加速器活动交流群:https://t.me/joinchat/AAAAAEQuL_IYR9I0wuLnfQ
+
 Kitsunebi交流:https://t.me/Kitsunebi_funs
+
 精品免费翻墙app推荐:https://t.me/fuckyougfw
+
 SSTap Rule:https://t.me/SSTapRule
+
 SSGlobal.co 官方群:https://t.me/joinchat/ESwgR0Ckp_zXMCuRKqykqA
+
 Trojan:https://t.me/trojangfw
+
 Lantern Beta:https://t.me/joinchat/BxT4KUg7B5HATgrFP22VXg
+
 几鸡-小圈自用公益机场:https://t.me/lisuanlaoji
+
 SuJ-Tech公益SSR:https://t.me/joinchat/KKbIW0pwN0JfXI86groWNA
+
 SSRLittle小布机场:https://t.me/ssrli
+
 vAgent云计算加速服务:https://t.me/crossgreatfirewall
+
 ss panel v3 mod 非官方水群:https://t.me/SSUnion
+
 小布吉岛闲聊群:https://t.me/bujidaochat
+
 OKAB3吹水:https://t.me/OKAB3Script
+
 Surgio 交流:https://t.me/surgiotg
+
 nebula_net:https://t.me/nebula_net
+
 Official Geph Users 迷霧通官方用戶群:https://t.me/gephusers
+
 ExCloud:https://t.me/excloud
+
 AK’s Tech Studio:https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ
+
 speedtest测速吹水群:https://t.me/del_speedtest
+
 Signin Script:https://t.me/Suntany
+
 章鱼哥的SSPanel之家:https://t.me/woaizyg
+
 枫之谷加速:https://t.me/fzgjs
+
 YtFlow α:https://t.me/YtFlow
+
 VPS信号旗情报本部:https://t.me/vps_xinhaoqi
+
 飞享一刻:https://t.me/fhyw37
+
 咸鱼News:https://t.me/saltyfishnews
+
 软件
 Microsoft users:https://t.me/Microsofthelp
+
 捷径 Shortcuts:https://t.me/SiriShortcuts
+
 捷径社区:https://t.me/shortcuts_cn
+
 Snipaste:https://t.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ
+
 Snipaste Discuss:https://t.me/joinchat/BGyWwEDqrqiwizDA6gt16g
+
 Price Tag:https://t.me/pricetagapp
+
 App 种草群:https://t.me/appfoundgroup
+
 版本控:https://t.me/nextnb
+
 Chrome:https://t.me/ChromeCN
+
 MWeb 及相关讨论:https://t.me/mwebapp
+
 MOZE 官方群:https://t.me/mozeapp
+
 岁寒输入法交流:https://t.me/SuiHanIME
+
 HyperApp:https://t.me/hyperapp
+
 Plus Messenger Support:https://t.me/plusmsgrchat
+
 Plus Messenger Chat:https://t.me/offTopicPlusChat
+
 Plus Messenger 中文討論區:https://t.me/plusfgc
+
 Unigram Insiders:https://t.me/unigraminsiders
+
 Docker:https://t.me/dockertutorial
+
 Pin:https://t.me/PinTG
+
 奇点:https://t.me/jidian
+
 Thor:https://t.me/thorshu
+
 Thor HTTP Sniffer:https://t.me/thoranubis
+
 Thor/HTTP/JSBox/捷径/Cydia交流群:https://t.me/yqc_666
+
 Pythonista 3:https://t.me/Pythonista3jiaoliuqun
+
 iTools:https://t.me/toolinbox
+
 X.cat:https://t.me/PcatApp
 Drafts:https://t.me/drafts4
 Aria2 中文交流群:https://t.me/Aria2_CN
@@ -484,6 +672,7 @@ Telegram Hath Group:https://t.me/telehathgroup
 Vps交流:https://t.me/talkvps
 自由世界之声:https://t.me/TetgramC
 今日我地唔倾健身倾人生:https://t.me/telegrc
+
 Product Hunt 分享讨论:https://t.me/joinchat/CreGnBZN4DGqRb4HiBkm9g
 wikipedia-zh:https://t.me/wikipedia_zh_n
 Old-wikipedia-zh:https://t.me/wikipedia_zh
@@ -806,6 +995,7 @@ Telegram 新手問答區:https://t.me/TGQNA
 KeralaGram:https://t.me/keralagram
 Telegram 新手频道讨论组:https://t.me/newbie_tele_discussion
 CNBlacklistR 交流群:https://t.me/joinchat/FfbG_g9eWFL1-8vEhY4xlQ
+
 地区群
 成都:https://t.me/cheng_du
 深圳:https://t.me/shenzhenbot?start=join
@@ -827,18 +1017,7 @@ CNBlacklistR 交流群:https://t.me/joinchat/FfbG_g9eWFL1-8vEhY4xlQ
 西安:https://t.me/joinchat/FY1SJkRF6ubEQzU-3Mq3cw
 温州:https://t.me/joinchat/AAAAAApGjPVlDbXwYSj1IA
 宁波:https://t.me/joinchat/IDzvnxAU9yCEh6vx4RQrPg
-新冠肺炎
-#nCoV 主群（疫区疫情新闻/互助）:https://t.me/joinchat/OElQrFZiBp5If1A90UCnsg
-#nCoV 武汉封城自由讨论区:https://t.me/joinchat/OElQrFKWIz_B1qtkNwE7qA
-#nCoV English discussion:https://t.me/WuhanCorona
-#nCoV 粤语/HK/繁體疫區疫情:https://t.me/joinchat/OElQrBQ_WvPb4juxJAJkgw
-#nCoV 美国疫情讨论区:https://t.me/US2019nCOV
-武汉肺炎新型病毒交流群:https://t.me/zhaook
-武汉肺炎疫情交流:https://t.me/wuhangroup
-武汉肺炎疫情交流讨论:https://t.me/SARSnew
-新冠肺炎(COVID-19)讨论群:https://t.me/CoronavirusDiscuss
-美国华人抗冠状病毒群:https://t.me/FightSARI
-其他
+
 Coder Offtopic 中文群:https://t.me/coder_ot
 BoastTG:https://t.me/BoastTG
 Steam&PlayStation&Xbox&Switch:https://t.me/ps4cn2
@@ -1793,154 +1972,3 @@ Godly Noob:https://t.me/GodlyNews1
 奇趣百科:https://t.me/qiqubaike
 扣扣空间:https://t.me/qqqzone
 硬核小卒:https://t.me/yinghexiaozu
-机器人 Bot
-官方认证 Bot
-BotFather 是所有机器人的 god 了,Telegram 官方管理；可以用它创建机器人和管理机器人,你可以利用机器人 API,帮你自己很多事情
-IFTTT ifttt 的官方机器人,可以很方便的和ifttt 里的其他服务连接,比如订阅某个网站的RSS,如果有更新就会自动把RSS内容推送到这个机器人,减少了频繁刷新网站来获取新的内容
-GmailBot 可以在这里就方便的收发Gmail
-DiscussBot 官方出的评论机器人, 可以在频道每条消息下面点击添加评论
-MTProxy Admin Bot 设置和管理 Telegram MTProto 服务器.
-Stickers 使用此机器人创建贴纸并获取贴纸的使用统计数据.
-SpamBot 官方处理 spam 事务的机器人
-VerifyBot 官方认证账号的机器人
-Telegraph This bot can help you log in on Telegra.ph, manage your articles, and get page view statistics.
-Previews Use this bot to leave feedback about webpage previews generated for Telegram’s Instant View feature.
-Designers Bot This bot accepts UI layouts and animations intended to improve Telegram. Best contributions are published in @designers
-Jobs Bot This bot lists career opportunities at Telegram and accepts candidates’ applications. Available at telegram.org/jobs
-GDPR Bot Telegram’s Official GDPR bot.
-GameBot I’m a demo bot for the Telegram Gaming Platform. I can get you a few fun sample games to play.
-ContestBot ContestBot is a way for Telegram to hold online competitions and find new members for the Telegram team.
-QuizBot Create a quiz with several multiple choice questions and test your friends.
-其他
-聪聪 Bot Telegram 知识/中文汉化,机场推荐,SS/SSR 下载,数码荔枝优惠劵,少数派 Power+ 2.0 优惠劵,Office 365 靠谱拼车,正版软件折扣…
-这个我知道 本机器人能够自动回复关键词对应的内容
-这个我删了 Bot 自动删除’推广/广告/菠菜’等等消息
-Vultr 助手 Bot 绑定 Vultr 账户, 定时提醒 Vultr 账户的余额和流量不足信息
-Telegram 权限管理 Bot Telegram 自动管理权限,指定时间自动关闭/打开群组权限
-中文趣群搜索机器人 Telegram 中文群组频道搜索机器人
-中文趣群搜索机器人 TG中文频道群组搜索机器人
-TGX-频道秘书 Telegram 中文群组索引导航
-新频道群组导航 新频道群组导航
-Translate Father 翻译消息
-Yandex.Translate 翻译消息
-Language Translator 翻译消息
-中英翻譯(English Chinese(Mandarin) translation) 翻译消息
-Sticker To GIF 贴纸下载,支持动态贴纸
-Sticker Downloader 贴纸下载
-StickerSetBot 贴纸下载
-TG Downloader GIF和贴纸下载
-Manybot Manybot lets you create your own bots. Send messages, create custom commands and menus. Press Send message to begin
-ControllerBot Awesome bot for channel owners that helps you to create rich posts, view stats and more.
-vote 投票机器人,新建一个投票发布在群里,每一次投票都是实时显示结果的,结果会以十分直观的方式展示
-PTRankBot 可以帮助你搜索和分享 iOS/macOS 应用,只需要在聊天框输入 @PTRankBot 和关键字,等待几秒就会出现搜索结果.支持命令查看 Store 各种排名,如 /top_free 查看每周免费排行榜
-ehForwarderBot ehForwarderBot能够将微信和 Telegram 连接在一起,你可以在 Telegram 上收发微信消息,详情查看:https://meta.appinn.net/t/efb-v2-telegram-docker/10888.GitHub 地址: https://github.com/blueset/ehForwarderBot
-AirPollution_Bot 查询空气质量(AQI),数据来源为 aqicn.org,比如发送“/aqi 成都”就会立即返回你成都的空气质量
-temp_mail_bot 有效期10分钟临时邮箱服务,当你想要临时注册一个网站的账号时就可以用这种临时邮箱服务,避免自己的邮箱泄露也免于各种垃圾广告骚扰
-utubebot YouTube 视频下载或者音频转换服务,把YouTube 的链接发过去它就会帮你转换格式并为你提供文件,便于你下载此视频
-apkdl_bot Android APK 搜索和下载,输入App 名即可提供多个来自国外网站APK 下载链接,点Preview 可以查看图标
-LikeBot 一个很酷的机器人,用基于表情符号的按钮创建帖子,可以点击表情符号投票.
-Instasave_bot 下载Instagram 和YouTube 的图片和视频
-getidsbot 这个机器人可以告诉你”你的tg ID和注册时间”
-TGSoBot Telegram 中文圈内容搜索引擎,主要用于支持官方不友好的中文搜索,有任何资源该引擎可以做到秒回.
-TeleMe TeleMe is simple management & analytics software for Telegram communities. TeleMe 是一个方便好用的Telegram 社群管理和统计Bot.
-Dr.Web 用于检测群组内的网页链接和文件,并在包含潜在威胁时发出警告.
-daixiahu_bot 智能合租机器人.合租 求租 智能机器人, 方便用户以最快的速度找到合适的车, 支持 Netflix, Spotify, Youtube 等
-cnLottery123_bot 抽奖助手:便好用、公平公正的 Telegram 群组抽奖工具.适用于群里抽奖、抽签抓阄等场景.
-tgLotteryBot 抽奖机器人
-sauweenbot 一个中文群组管理机器人, 内置一些全中文得简单操作
-letmebot Teach those pricks how to use a search engine properly.
-Doge Bot JPG.DOG 的上线 Doge Bot 图床机器人,只需私聊发送图片,即可自动上传图床并返回链接！
-areply_bot 自动解除频道消息在群组的同步置顶，附带群组日常维护常用小功能
-WuhanPneumoniaBot 武汉新型冠状病毒感染肺炎查询
-haoyybot 歌曲音乐搜索机器人，输入歌曲名或者歌手名，把TG变成音乐播放器！
-Send to Kindle Send to Kindle Bot
-InstantViewBot 可以把文章都生成支持Instant View
-ChnInstantViewBot 可以把文章都生成支持Instant View
-WebpageBot 强制刷新 Telegram 链接预览
-ReactBot 频道消息添加点赞和评论按钮
-CommentBot 频道消息添加点赞和评论按钮
-Like and Comment 频道消息添加点赞和评论按钮
-Channel Helper 频道消息添加点赞和评论按钮
-tgcnjoincaptchabot TGCN-CAPTCHA加群验证
-Jqs7ZweiBot 加群验证
-Captchat_Bot 加群验证
-WatchDoorBot 加群验证
-WooMaiBot 加群验证
-VideoTubeBot Downloads audio/video from YouTube.
-PronunciationBot 可以将84种语言文字转换成对应的语音 学习外语发音的利器
-Shorten URL 提供短网址 ShortenURL 服务,使用的网址为 ume.la
-TransferRobot 上传文件后提供下载链接,适合做图床和文件分享
-SpotifyMusicDownloaderBot Spotify Music Downloader
-Minesweeper 扫雷游戏
-Combot 统计群消息情况,群成员情况
-NodeRSSBot A RSSBot written in Node.js https://github.com/fengkx/NodeRSSBot feel free to post issue or pull request
-RustRssBot 中文 Telegram RSS 机器人
-TheFeedReaderBot RSS 机器人
-RSSchina_bot rss订阅机器人
-PdoRSS_bot 一个勤勤恳恳的RSS订阅器
-ComenBot 留言/评论机器人
-CommentsBot 留言/评论机器人
-get_id_bot get your telegram’s chat ID
-zh_groups_bot TGCN-群组频道狼
-GroupHub_bot tg中文圈优质群组
-TWBlackList_bot 登爺的名單,辅助管理群成员,帮你ban人
-CNBlackListRBot 辅助管理群成员,帮你ban人
-GroupButler This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more!
-AntiServiceMessageBot 自动把入群和退群通知删除
-Anonymous Telegram Bot 群组匿名消息机器人.将机器人加入群组后,私聊机器人,可以通过机器人将文本、视频等匿名发送到群组内.
-AntiHyperlinkBot 自动删除包含有链接的消息
-AntiCommandBot 自动删除 /命令 的消息
-AntiArabicScriptBot removes all messages which contain arabic script
-Giphy GIF Search GIF 搜索
-Wikipedia Search Wikipedia 搜索
-Markdown Bot Markdown 格式编辑消息
-JPEGreenBot 图片劣化
-ImageBot This simple bot can fetch images and GIFs upon request.
-IMDb This bot automatically works in all your chats and groups, no need to add it anywhere. Simply type @imdb in any chat
-Classical Music This bot can help you find beautiful classical music.
-YouTube Bot This bot can help you find and share YouTube videos.
-GitHub Get notifications about events in your public GitHub repositories and post comments directly from Telegram.
-Shop Bot Try out the new Telegram Payments without actually paying anything.
-StickerBot This bot will help you find new relevant stickers for your favorite emoji.
-Gamee The best games on Telegram! Pick a game and challenge your friends
-Hot Or Bot Like others and let others like you.
-GetMediaBot Get any media file from any where…
-NoSticker 自动删除群里的Stickers
-SpamMeNotBot 保护您的组免受垃圾邮件/攻击
-socks5_bot 免费获得Socks5 代理
-MahoNato_bot 森近真帆
-telegraph 管理Telegra.ph文章
-mdrobot Markdown 机器人
-referbot 提供短网址 Shorten URL 服务,使用的网址为ume.la
-LinkGeneratorBot 短地址服务
-QRCodeRoBot 二维码识别机器人,通过拍照和上传图片的方式识别
-thesafebot 一个利用 telegram 存储功能实现额外加密的云存储服务
-MyTeleCloudBot 另一个云存储服务,没有额外加密,不过功能还行
-topdf_bot 转换文件为 PDF 格式ss
-Instasave_bot 用来下载 instagram 的 bot
-my_ali_bot 用来在 AliExpress 上购物
-TrustedSleepBot 可信睡眠机器人
-ddoc_bot DDOS攻击器
-storebot 机器人商店,索引了各种机器人,可以寻找自己感兴趣的
-tchannelsbot 索引了很多 Channel,可以寻找自己感兴趣的 Channel
-CostflowCryptoBot Cryptocurrencies
-CostflowCurrencyBot Real world currency rates/convention
-stockprice_bot 中文股票机器人,A股 / 美股 / 港股
-LotteryBot 一个比特币抽奖的机器人
-todobot To do list manager
-rJailbreakBot Jailbreak Bot
-iqdb_org_bot IQDB Bot
-ascii2d_bot Ascii2d Bot
-wangjingze_bot 王境泽 Bot
-yaplus_bot Yaplus Bot
-kunsu_bot HandsUp Bot
-youqianbot 为所欲为 Bot
-redpack_bot 红包 Bot
-penle_bot 喷了 Bot
-jichou_bot 记仇 Bot
-bugele_bot 不鸽了 Bot
-jidubot 嫉妒 Bot
-favorite_stickers_bot 贴纸包 Bot
-Telegram Bot List
-Telegram Bot Store
-Telegram Bots
