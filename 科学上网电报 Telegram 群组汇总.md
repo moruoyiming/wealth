@@ -1,16 +1,5 @@
+科学上网电报 Telegram 群组汇总（转）
 
-title: 科学上网电报 Telegram 群组汇总（转）
-thumbnail: /gallery/thumbnails/sculpture.jpg
-
-categories: 
-
-- 科学上网
-tags:
-    - ss
-    - 翻墙
-    - 电报群
-    - Telegram
----
 
 科学上网电报 Telegram 群组汇总
 Cover Image for 科学上网电报 Telegram 群组汇总
@@ -46,7 +35,6 @@ lhie1/Rules:https://t.me/lhie1x
 DivineEngine Chat:https://t.me/joinchat/BlP48kmUGY-iR41Iq11-3w
 Quantumult X、Surge、Loon的脚本讨论:https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w
 thor，Quantumult X，小火箭 JSBox交流群:https://t.me/weixiaoge777
- <!-- more -->
 Loon:https://t.me/Loon0x00
 rixCloud 用户群:https://t.me/rixCloudbot (绑定账号后,发送’/joingroup’获取群链接)
 Dler Cloud 用户群:https://t.me/DlerCloud_bot (绑定账号后,会给你发送群链接)
