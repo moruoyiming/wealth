@@ -821,17 +821,6 @@ CNBlacklistR 交流群:https://t.me/joinchat/FfbG_g9eWFL1-8vEhY4xlQ
 西安:https://t.me/joinchat/FY1SJkRF6ubEQzU-3Mq3cw
 温州:https://t.me/joinchat/AAAAAApGjPVlDbXwYSj1IA
 宁波:https://t.me/joinchat/IDzvnxAU9yCEh6vx4RQrPg
-新冠肺炎
-#nCoV 主群（疫区疫情新闻/互助）:https://t.me/joinchat/OElQrFZiBp5If1A90UCnsg
-#nCoV 武汉封城自由讨论区:https://t.me/joinchat/OElQrFKWIz_B1qtkNwE7qA
-#nCoV English discussion:https://t.me/WuhanCorona
-#nCoV 粤语/HK/繁體疫區疫情:https://t.me/joinchat/OElQrBQ_WvPb4juxJAJkgw
-#nCoV 美国疫情讨论区:https://t.me/US2019nCOV
-武汉肺炎新型病毒交流群:https://t.me/zhaook
-武汉肺炎疫情交流:https://t.me/wuhangroup
-武汉肺炎疫情交流讨论:https://t.me/SARSnew
-新冠肺炎(COVID-19)讨论群:https://t.me/CoronavirusDiscuss
-美国华人抗冠状病毒群:https://t.me/FightSARI
 其他
 Coder Offtopic 中文群:https://t.me/coder_ot
 BoastTG:https://t.me/BoastTG
